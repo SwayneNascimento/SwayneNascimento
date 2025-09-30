@@ -4,12 +4,21 @@
 - 🌱 Estudando React Native e Java
 - 😄 Pronouns: Ela/Dela
 
-<div>
-  <a href="https://github.com/swaynenascimento">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swaynenascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaynenascimento&layout=compact&langs_count=16&theme=dracula"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <a href="https://github.com/SwayneNascimento">
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=SwayneNascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
+      alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/SwayneNascimento">
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayneNascimento&layout=compact&langs_count=16&theme=dracula" 
+      alt="Top Languages"/>
   </a>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
