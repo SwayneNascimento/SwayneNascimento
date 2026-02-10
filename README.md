@@ -1,7 +1,7 @@
 ## Oii! Eu sou a Swayne Nascimento
 
 - 🔭 Hoje trabalho como front-end
-- 🌱 Estudando React Native e Java
+- 🌱 Estudando React Native 
 - 😄 Pronouns: Ela/Dela
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
@@ -32,10 +32,8 @@
   <img align="center" alt="Rafa-Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
   <img align="center" alt="Rafa-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Rafa-Quasar" height="30" width="40" src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-PowerBI" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg">
   <img align="center" alt="Rafa-Office" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
 ##
